@@ -168713,6 +168713,238 @@
                 {
                     "arcs": [
                         [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4
+                        ]
+                    ],
+                    "id": 0,
+                    "properties": {
+                        "census": 6392017,
+                        "fips_state": "04",
+                        "geo_id": "0400000US04",
+                        "iso_3166_2": "AZ",
+                        "name": "Arizona",
+                        "pop_2010": 6411999,
+                        "pop_2011": 6472867,
+                        "pop_2012": 6556236,
+                        "pop_2013": 6634997,
+                        "pop_2014": 6731484,
+                        "pop_estimataes_base": 6392310
+                    },
+                    "type": "Polygon"
+                },
+                {
+                    "arcs": [
+                        [
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10
+                        ]
+                    ],
+                    "id": 1,
+                    "properties": {
+                        "census": 2915918,
+                        "fips_state": "05",
+                        "geo_id": "0400000US05",
+                        "iso_3166_2": "AR",
+                        "name": "Arkansas",
+                        "pop_2010": 2922297,
+                        "pop_2011": 2938430,
+                        "pop_2012": 2949300,
+                        "pop_2013": 2958765,
+                        "pop_2014": 2966369,
+                        "pop_estimataes_base": 2915958
+                    },
+                    "type": "Polygon"
+                },
+                {
+                    "arcs": [
+                        [
+                            [
+                                11
+                            ]
+                        ],
+                        [
+                            [
+                                12
+                            ]
+                        ],
+                        [
+                            [
+                                13
+                            ]
+                        ],
+                        [
+                            [
+                                14
+                            ]
+                        ],
+                        [
+                            [
+                                15
+                            ]
+                        ],
+                        [
+                            [
+                                16
+                            ]
+                        ],
+                        [
+                            [
+                                17
+                            ]
+                        ],
+                        [
+                            [
+                                18
+                            ]
+                        ],
+                        [
+                            [
+                                19
+                            ]
+                        ],
+                        [
+                            [
+                                20
+                            ]
+                        ],
+                        [
+                            [
+                                21,
+                                22,
+                                -3,
+                                23
+                            ]
+                        ]
+                    ],
+                    "id": 2,
+                    "properties": {
+                        "census": 37253956,
+                        "fips_state": "06",
+                        "geo_id": "0400000US06",
+                        "iso_3166_2": "CA",
+                        "name": "California",
+                        "pop_2010": 37336011,
+                        "pop_2011": 37701901,
+                        "pop_2012": 38062780,
+                        "pop_2013": 38431393,
+                        "pop_2014": 38802500,
+                        "pop_estimataes_base": 37254503
+                    },
+                    "type": "MultiPolygon"
+                },
+                {
+                    "arcs": [
+                        [
+                            24,
+                            25,
+                            26,
+                            27,
+                            28,
+                            29
+                        ]
+                    ],
+                    "id": 3,
+                    "properties": {
+                        "census": 5029196,
+                        "fips_state": "08",
+                        "geo_id": "0400000US08",
+                        "iso_3166_2": "CO",
+                        "name": "Colorado",
+                        "pop_2010": 5048575,
+                        "pop_2011": 5119661,
+                        "pop_2012": 5191709,
+                        "pop_2013": 5272086,
+                        "pop_2014": 5355866,
+                        "pop_estimataes_base": 5029324
+                    },
+                    "type": "Polygon"
+                },
+                {
+                    "arcs": [
+                        [
+                            30,
+                            31,
+                            32,
+                            33
+                        ]
+                    ],
+                    "id": 4,
+                    "properties": {
+                        "census": 3574097,
+                        "fips_state": "09",
+                        "geo_id": "0400000US09",
+                        "iso_3166_2": "CT",
+                        "name": "Connecticut",
+                        "pop_2010": 3579345,
+                        "pop_2011": 3590537,
+                        "pop_2012": 3594362,
+                        "pop_2013": 3599341,
+                        "pop_2014": 3596677,
+                        "pop_estimataes_base": 3574096
+                    },
+                    "type": "Polygon"
+                },
+                {
+                    "arcs": [
+                        [
+                            34,
+                            35
+                        ]
+                    ],
+                    "id": 5,
+                    "properties": {
+                        "census": 601723,
+                        "fips_state": "11",
+                        "geo_id": "0400000US11",
+                        "iso_3166_2": "DC",
+                        "name": "District of Columbia",
+                        "pop_2010": 605210,
+                        "pop_2011": 620427,
+                        "pop_2012": 635040,
+                        "pop_2013": 649111,
+                        "pop_2014": 658893,
+                        "pop_estimataes_base": 601767
+                    },
+                    "type": "Polygon"
+                },
+                {
+                    "arcs": [
+                        [
+                            36,
+                            37,
+                            38,
+                            39,
+                            40,
+                            41
+                        ]
+                    ],
+                    "id": 6,
+                    "properties": {
+                        "census": 9687653,
+                        "fips_state": "13",
+                        "geo_id": "0400000US13",
+                        "iso_3166_2": "GA",
+                        "name": "Georgia",
+                        "pop_2010": 9714464,
+                        "pop_2011": 9813201,
+                        "pop_2012": 9919000,
+                        "pop_2013": 9994759,
+                        "pop_2014": 10097343,
+                        "pop_estimataes_base": 9688681
+                    },
+                    "type": "Polygon"
+                },
+                {
+                    "arcs": [
+                        [
                             42,
                             43,
                             44,
